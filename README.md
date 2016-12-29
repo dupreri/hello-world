@@ -1,2 +1,3 @@
 # hello-world
-Just a tester
+Just a tester.
+GitHub refresher for future projects.
